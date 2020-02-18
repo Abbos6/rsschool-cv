@@ -1,0 +1,22 @@
+h1{
+  font-style: italic;
+  text-align: center;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 30 px;
+  font-display: optional;
+  color: violet;
+}
+body{
+  background-color: silver;
+  max-width: 1024px;
+  margin: 0 auto;
+  text-align: center;
+}
+h3{
+  color: red;
+}
+img{
+	width: 300px;
+	height: 300px
+}
